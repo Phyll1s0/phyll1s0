@@ -45,8 +45,11 @@ I'm deeply passionate about **exploring innovative technologies** and **building
 ## 🔗 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-phyll1s0.github.io%2FPhyll1s0.space-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://phyll1s0.github.io/Phyll1s0.space/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Phyll1s0-181717?style=flat&logo=github&logoColor=white)](https://github.com/Phyll1s0)
+
 [![X](https://img.shields.io/badge/X-@louhao088-000000?style=flat&logo=x&logoColor=white)](https://x.com/louhao088)
+
 [![Email](https://img.shields.io/badge/Email-louhao088%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:louhao088@gmail.com)
 
 ---

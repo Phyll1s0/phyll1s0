@@ -2,7 +2,7 @@
 
 > *also known as **phyll1s0***
 
-CS Student at **Shanghai Jiao Tong University** | Innovation Enthusiast | Full-stack Developer
+CS Student at **Shanghai Jiao Tong University** | Innovation Enthusiast 
 
 ---
 

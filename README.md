@@ -44,7 +44,7 @@ I'm deeply passionate about **exploring innovative technologies** and **building
 
 ## 🔗 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-Phyll1s0.com-4285F4?style=flat&logo=googlechrome&logoColor=white)](phyll1s0.com/)
+[![Website](https://img.shields.io/badge/Website-Phyll1s0.com-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://phyll1s0.com/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Phyll1s0-181717?style=flat&logo=github&logoColor=white)](https://github.com/Phyll1s0)
 

@@ -60,4 +60,5 @@ I'm deeply passionate about **exploring innovative technologies** and **building
 
 ---
 
-*Always curious, always building.* 🚀
+**By this thorny path, to the stars above.**
+

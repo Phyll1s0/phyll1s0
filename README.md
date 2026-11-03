@@ -56,7 +56,7 @@ I'm deeply passionate about **exploring innovative technologies** and **building
 
 ## 📊 GitHub Stats
 
-![phyll1s0's GitHub stats](./profile/stats.svg)
+![phyll1s0's GitHub stats](https://github-stats-extended.vercel.app/api?username=Phyll1s0&show_icons=true&theme=dracula)
 
 ---
 
